@@ -10,7 +10,7 @@ using namespace std;
 
 bool ok(int q[8], int c)
 {
-	int a[][8] = {{-1},				//Adjacent array with neighour indexes(2d array with irregular shape)
+	int a[][8] = {{-1},				//Adjacent array with neighour indices(2d array with irregular shape)
 				{0,-1},
 				{0,-1},
 				{0,1,2,-1},
